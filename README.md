@@ -37,6 +37,8 @@ Más de 10 años construyendo sistemas empresariales: APIs y servicios en .NET, 
 | [holamundo-maui](https://github.com/VicentePerezHdz/holamundo-maui) | App .NET MAUI con MVVM (CommunityToolkit), inyección de dependencias y bindings compilados |
 | [holamundo-kotlin-android](https://github.com/VicentePerezHdz/holamundo-kotlin-android) | App Android multimódulo con Kotlin, MVVM, casos de uso y Dagger 2 |
 | [holamundo-netcore-angular](https://github.com/VicentePerezHdz/holamundo-netcore-angular) | API REST en capas con .NET 8 y frontend en Angular 17 |
+| [holamundo-react](https://github.com/VicentePerezHdz/holamundo-react) | Frontend con React 18 y TypeScript: hooks, rutas, Context + useReducer y pruebas con Vitest |
+| [holamundo-python-fastapi](https://github.com/VicentePerezHdz/holamundo-python-fastapi) | API REST con FastAPI y Pydantic, errores ProblemDetails y pruebas con pytest |
 | [auditor-promociones-python](https://github.com/VicentePerezHdz/auditor-promociones-python) | Auditoría de reglas de promoción por volumen con Pandas y pytest |
 
 ---
